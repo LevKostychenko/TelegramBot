@@ -1,0 +1,10 @@
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\bin\Debug\netcoreapp2.1\TelegrammBot.deps.json
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\bin\Debug\netcoreapp2.1\TelegrammBot.runtimeconfig.json
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\bin\Debug\netcoreapp2.1\TelegrammBot.runtimeconfig.dev.json
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\bin\Debug\netcoreapp2.1\TelegrammBot.dll
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\obj\Debug\netcoreapp2.1\TelegrammBot.csprojAssemblyReference.cache
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\obj\Debug\netcoreapp2.1\TelegrammBot.AssemblyInfoInputs.cache
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\obj\Debug\netcoreapp2.1\TelegrammBot.AssemblyInfo.cs
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\bin\Debug\netcoreapp2.1\TelegrammBot.pdb
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\obj\Debug\netcoreapp2.1\TelegrammBot.dll
+E:\Projects\Telegramm\TelegrammBot\TelegrammBot\obj\Debug\netcoreapp2.1\TelegrammBot.pdb
